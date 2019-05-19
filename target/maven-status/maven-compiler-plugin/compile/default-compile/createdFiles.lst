@@ -1,0 +1,7 @@
+obus\test\springmvcrest\config\AppConfig.class
+obus\test\springmvcrest\dao\ObusDao.class
+obus\test\springmvcrest\config\MyWebAppInitializer.class
+obus\test\springmvcrest\config\WebConfig.class
+obus\test\springmvcrest\model\Obus.class
+obus\test\springmvcrest\service\ObusService.class
+obus\test\springmvcrest\controller\ObusController.class
